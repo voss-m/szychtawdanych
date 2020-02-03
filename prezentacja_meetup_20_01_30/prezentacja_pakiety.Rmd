@@ -2,7 +2,7 @@
 title: "Jak tworzyć lepsze oprogramowanie w R"
 author: "Piotr Sobczyk"
 date: "30 stycznia 2020"
-output: rmarkdown::github_document
+output: ioslides_presentation
 ---
 
 ```{r setup, include=FALSE}
